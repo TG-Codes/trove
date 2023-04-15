@@ -1,0 +1,18 @@
+#tg {
+    background-color: blueviolet;
+}
+
+ /*
+    * You can now write your css code here
+    */
+    p {
+        background-color: rgb(244, 246, 244);
+    }
+
+    /**
+        in a bid to asign a specific property to a paragraph. we need to create a class 
+        for it 
+    **/
+    .trove {
+        background-color: green;
+    }
