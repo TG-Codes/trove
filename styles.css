@@ -16,8 +16,7 @@
     .trove {
         background-color: green;
     }
-.wine {
-    font-family: sans-serif; 
-    color:blueviolet; 
-    background-color: azure;
-}
+    .tableheader {
+        background-color: gray;
+        
+    }
